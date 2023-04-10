@@ -48,3 +48,11 @@ Fully Connected Layer
 
 The layer we call as FC layer, we flattened our matrix into vector and feed it into a fully connected layer like a neural network.
 
+Summary
+
+Provide input image into convolution layer
+Choose parameters, apply filters with strides, padding if requires. Perform convolution on the image and apply ReLU activation to the matrix.
+Perform pooling to reduce dimensionality size
+Add as many convolutional layers until satisfied
+Flatten the output and feed into a fully connected layer (FC Layer)
+Output the class using an activation function (Logistic Regression with cost functions) and classifies images.
