@@ -2,6 +2,9 @@
 multiclass-image-classification-using-cnn
 Multiclass Image Classification Using CNN
 
+![image](https://user-images.githubusercontent.com/114068300/230830606-f9aa0739-02a1-4ea8-b9d0-59aeb48d2020.png)
+
+
 In this notebook I have shown how a simple CNN is implemented on a multiclass image classification problem. I have covered
 
 1. How to create a CNN Model and Train it.
